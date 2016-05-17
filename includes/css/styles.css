@@ -1,0 +1,143 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+   .header{         
+   height: 50px;
+   margin-top: -5px;
+   background-color: #eaeaea;
+}
+.header{
+   margin-top: -5px;
+}
+   ul{
+      float:left;
+   }
+   li{
+      display: inline;
+   }
+   .navbar-brand{
+      
+      mask-type: 3px;
+   }
+   .col-md-8{
+      padding-right:5px;
+   }
+   .navigation{
+      margin-left: 145px;
+      margin-top: 15px;
+   }
+   .navigation li a{
+      font-family:  sans-serif;
+      font-size: 12px; 
+      color: #666;  
+   }
+   
+.navigation li a:hover {
+   text-decoration: underline;
+   color:black;
+}
+.img-responsive{
+   width: 320px
+   height:280px;
+}
+   
+.maincontent{
+   margin-top: -15px;
+}
+.imgmargin{
+   margin-top: 5px;
+}
+.imgalin{
+ float: left;
+ margin-bottom: 220px;
+}
+.contentDes p{
+   width: 960px
+   height:auto;
+   font-size:15px;
+   color: #666
+
+   
+}
+span{
+   font-weight: bold;
+
+}
+footer{
+   width: auto;         
+   height: 50px;
+   background-color: #eaeaea;
+   clear: both;
+   font-size: 10px;
+   padding-top: 3px;
+   padding-left: 5px;
+   
+}
+footer nav{
+   float: right;
+   margin-top: -45px;
+   padding-right: 5px;
+}
+footer li{
+   display: inline;
+}
+footer p{
+    margin-top: 25px;
+}
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+  
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+@media (min-width: 990px) {
+
+}
+
+/* Portrait & landscape phone 
+@media (max-width: 480px) {*/
+	
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+	
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+	
+}
